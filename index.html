@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Graduate Salaries of the Top 30 U.S. Universities</title>
+    <link rel="stylesheet" href="styles.css">
+      <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://unpkg.com/d3@5.9.2/dist/d3.min.js"></script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+    <script src="https://unpkg.com/us-atlas@2.1.0/us/10m.json"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+  </head>
+  <body>
+    <h2>No Pain, No Gain - Graduate Salaries of the Top 30 U.S. Universities</br></br></h2>
+    <div>
+      <h4> Distribution of the Top 30 U.S. Universities</h4>
+      <input type="checkbox" class="checkbox" value="Private" checked> Private Universities
+      <input type="checkbox" class="checkbox" value="Public" checked> Public Universities
+    </div>
+    <div id="svg1"></div>
+    <label><input type="sort"> Sort values</label>
+<h4></br></br>Percentile Chart of the Graduate Salaries</h4>
+  	<div id="svg2"></div>
+    <script src="bundle.js"></script>
+  </body> 
+</html>

@@ -1,0 +1,57 @@
+.body {
+  margin: 0px;
+  overflow: hidden;
+  font: 10px sans-serif;
+}
+
+.h2 {}
+
+div.tooltip {   
+ 	position: absolute;           
+	text-align: center;           
+	width: 300px;                  
+	height: 100px;                 
+	padding: 2px;             
+	font: 20px sans-serif;        
+	background: white;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none; 
+  white-space: pre-wrap;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.tooltip{
+  text-anchor: middle;
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  fill: black;
+}
+
+label {
+  position: absolute;
+  top: 600px;
+  right: 35px;
+  color: #D8D8D8;
+  opacity: 0
+}
+
+.selected {
+	width: 50;
+}
+
+.theAxis{
+	font-weight: bold;
+  font-size: 30
+}

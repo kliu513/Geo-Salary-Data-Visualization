@@ -1,0 +1,28 @@
+Category,City,Institution,Rank,State,Acceptance Rate (%),Latitude,Longitude
+Private,Princeton,Princeton University,1,NJ,6,40.3449,-74.6566
+Private,Cambridge,Harvard University,2,MA,5,42.3776,-71.1247
+Private,New York,Columbia University,3,NY,5,40.8075,-73.9626
+Private,Cambridge,Massachusetts Institute of Technology,4 (tie),MA,7,42.3656,-71.1041
+Private,New Haven,Yale University,4 (tie),CT,6,41.3099,-72.9281
+Private,Stanford,Stanford University,6 (tie),CA,4,37.4248,-122.1648
+Private,Chicago,University of Chicago,6 (tie),IL,6,41.7827,-87.6041
+Private,Philadelphia,University of Pennsylvania,8,PA,8,39.9578,-75.2005
+Private,Evanston,Northwestern University,9,IL,9,42.0538,-87.6767
+Private,Durham,Duke University,12,NC,8,35.9991,-78.9382
+Private,Hanover,Dartmouth College,13,NH,8,43.7097,-72.2633
+Private,Providence,Brown University,14 (tie),RI,7,41.8263,-71.4023
+Private,Nashville,Vanderbilt University,14 (tie),TN,9,36.1468,-86.8033
+Private,Houston,Rice University,16 (tie),TX,9,29.7052,-95.5413
+Private,Ithaca,Cornell University,18,NY,11,42.4476,-76.4858
+Private,Notre Dame,University of Notre Dame,19,IN,16,41.7057,-86.2302
+Public,Los Angeles,University of California—Los Angeles,20,CA,12,34.0678,-118.4451
+Private,Atlanta,Emory University,21,GA,16,33.7956,-84.3221
+Public,Berkeley,University of California—Berkeley,22,CA,17,37.8731,-122.2523
+Private,Washington,Georgetown University,23,DC,14,38.9075,-77.0724
+Private,Los Angeles,University of Southern California,24 (tie),CA,11,34.0211,-118.2862
+Private,Pittsburgh,Carnegie Mellon University,26 (tie),PA,15,40.4448,-79.954
+Public,Charlottesville,University of Virginia,26 (tie),VA,24,38.0345,-78.5125
+Public,Chapel Hill,University of North Carolina—Chapel Hill,28 (tie),NC,23,35.9045,-79.047
+Private,New York,New York University,30 (tie),NY,16,40.7257,-73.9982
+Public,Santa Barbara,University of California—Santa Barbara,30 (tie),CA,30,34.4173,-119.8461
+Public,Gainesville,University of Florida,30 (tie),FL,37,29.6448
