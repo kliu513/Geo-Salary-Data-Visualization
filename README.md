@@ -1,5 +1,5 @@
 # Geo-Salary-Data-Viz
-This is a webpage that visualizes the respective new graduate salaries of the top 30 US universities in a stacked bar chart, linked with a geo-map demonstrating the location of each university.
+This repository contains the source code for a webpage that visualizes the respective new graduate salaries of the top 30 US universities in a stacked bar chart, linked with a geo-map demonstrating the location of each university.
 
 ### Views
 ##### Geo-Map
